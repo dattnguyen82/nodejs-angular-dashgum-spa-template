@@ -1,0 +1,17 @@
+{
+  "name": "user-profile",
+  "version": "0.0.0",
+  "description": "Implement a custom login form with Auth0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Auth0",
+  "license": "MIT",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.4",
+    "angular": "^1.6.1",
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  }
+}
