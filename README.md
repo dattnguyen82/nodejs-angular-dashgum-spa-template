@@ -1,2 +1,2 @@
 ###
-Node DashGum template
+Node Angular DashGum template
